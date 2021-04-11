@@ -1,0 +1,9 @@
+POST http://localhost:3001/notes/
+Content-Type: application/json
+
+{
+    "id": 4,
+    "content": "HTML on helppo",
+    "date": "2017-12-10T17:30:31.098Z",
+    "important": true
+}
